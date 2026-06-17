@@ -10,6 +10,7 @@ This project aims to support automated quality inspection in manufacturing envir
 
 
 **User Interface**
+
 ![streamlit](https://github.com/amjadzkwn/PCB-NG-Detection-System/blob/2ab1a47a76b9692fd809bf5ea37dff38700a07ee/pcbDetection_streamlit.jpg)
 
 
@@ -144,7 +145,12 @@ PCB_B_NG 0.91
 ```
 
 **OK Detection**
+
 ![ok_detection](https://github.com/amjadzkwn/PCB-NG-Detection-System/blob/0ae5693ef0902464f3f16b9f8a857ba4d0970c79/OK_Detect.jpg)
+
+**NG Detection**
+
+![ng_detection](https://github.com/amjadzkwn/PCB-NG-Detection-System/blob/1bc9a6ea09ea925daa08980f4bc8733edfd19e66/NG_Detect.jpg)
 
 Bounding boxes are displayed around detected objects along with confidence scores.
 
