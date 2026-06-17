@@ -146,7 +146,7 @@ PCB_B_NG 0.91
 
 **OK Detection**
 
-![ok_detection]()
+![ok_detection](https://github.com/amjadzkwn/PCB-NG-Detection-System/blob/c568622b9657c2164f3c107b5cf93315295821c5/OK_Detect.jpg)
 
 **NG Detection**
 
