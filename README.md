@@ -8,7 +8,7 @@ The system runs on a Raspberry Pi with a USB camera and performs live inspection
 
 This project aims to support automated quality inspection in manufacturing environments by reducing manual inspection effort and improving detection consistency.
 
-![streamlit](https://github.com/amjadzkwn/SmartOps-ML-Driven-Failure-Forecasting/blob/5de734a5093092041175196a1ee98d4a5b6b36d3/1_failure_distribution.png)
+![streamlit](https://github.com/amjadzkwn/PCB-NG-Detection-System/blob/2ab1a47a76b9692fd809bf5ea37dff38700a07ee/pcbDetection_streamlit.jpg)
 
 
 ---
