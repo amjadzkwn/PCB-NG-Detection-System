@@ -150,7 +150,7 @@ PCB_B_NG 0.91
 
 **NG Detection**
 
-![ng_detection]()
+![ng_detection](https://github.com/amjadzkwn/PCB-NG-Detection-System/blob/b2f32422f2f70c053710d4d6429042b7b1044c99/NG_Detect.jpg)
 
 Bounding boxes are displayed around detected objects along with confidence scores.
 
