@@ -144,11 +144,11 @@ PCB_A_OK 0.95
 PCB_B_NG 0.91
 ```
 
-**OK Detection**
+**OK Detection:**
 
 ![ok_detection](https://github.com/amjadzkwn/PCB-NG-Detection-System/blob/c568622b9657c2164f3c107b5cf93315295821c5/OK_Detect.jpg)
 
-**NG Detection**
+**NG Detection:**
 
 ![ng_detection](https://github.com/amjadzkwn/PCB-NG-Detection-System/blob/b2f32422f2f70c053710d4d6429042b7b1044c99/NG_Detect.jpg)
 
